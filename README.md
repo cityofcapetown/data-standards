@@ -15,6 +15,7 @@ Possible Topics to cover:
 * Data Exchange
 * Data Formats
 * Data Security
+* Data Privacy
 * Data Management
 * Authentication & Authorisation
 * Documentation
