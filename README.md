@@ -29,6 +29,12 @@ As a start use the following template when adding information to each topic.  Fe
 
 ## Why ask for it?
 
+## Deliverable
+
+If a data project is being done for you:
+
+If you are delivering the data project:
+
 ## Standard
 
 ## Examples
