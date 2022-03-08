@@ -1,4 +1,4 @@
-# Data Schema & Data Model
+# Metadata
 
 ## What is it?
 
