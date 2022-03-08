@@ -8,7 +8,7 @@ It is hoped that this open approach to establishing data standards will ensure t
 
 This is a work in progress, please read through the content and make proposals to improve it.
 
-Possible Topics to cover:
+Possible Topics to cover ([link](https://github.com/cityofcapetown/data-standards/tree/main/docs)):
 
 * Data Schema
 * Metadata
@@ -19,3 +19,19 @@ Possible Topics to cover:
 * Data Management
 * Authentication & Authorisation
 * Documentation
+
+As a start use the following template when adding information to each topic.  Feel free to submit additional deaders or conte
+
+> # {Topic}
+>
+> ## What is it?
+>
+> ## Why ask for it?
+>
+> ## What to ask for?
+>
+> ### If a data project is being done for you:
+>
+> ### If you are delivering the data project:
+>
+> ## Examples
