@@ -1,4 +1,4 @@
-# Data Schema & Data Model
+# Data Exchange
 
 ## What is it?
 
