@@ -7,7 +7,7 @@
 ## Why ask for it?
 The data schema and data model reflects business rules in a technical manner.  
 
-## What to ask for?
+## Deliverable
 
 If a data project is being done for you:
 *	Data schema - Request the service provider to provide a machine readable, e.g. html or markdown, file explaining the data schema and data model
