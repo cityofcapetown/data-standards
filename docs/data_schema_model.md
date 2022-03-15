@@ -1,11 +1,10 @@
 # Data Schema & Data Model
 
 ## What is it?
-* A data schema define the data sources, and objects, i.e. tables, columns (if tabular) and its attributes, e.g. data types, constraints, foreign or primary keys. 
+* Refers to the organisation of data - a map for the data.
+* A data schema define the data sources, and objects, i.e. tables, columns, attributes, e.g. data types, constraints, foreign or primary keys. 
 * A data model represents the logical view of how the data is organised and how the relations among them are associated.
-
-## Why ask for it?
-The data schema and data model reflects business rules in a technical manner.  
+* The data schema and data model reflects business rules in a technical manner. 
 
 ## Deliverable
 
@@ -20,3 +19,5 @@ If you are delivering the data project:
 ## Standard
 
 ## Examples
+
+![Example1](/images/data_schema.png)
