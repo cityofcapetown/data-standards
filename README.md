@@ -20,20 +20,12 @@ Possible Topics to cover ([link](https://github.com/cityofcapetown/data-standard
 * Authentication & Authorisation
 * Documentation
 
-As a start use the following template when adding information to each topic.  Feel free to submit additional deaders or content
+As a start the following template wis used for each topic.  Feel free to submit additional headers or content
 
 ```
 # {Topic}
 
 ## What is it?
-
-## Why ask for it?
-
-## Deliverable
-
-If a data project is being done for you:
-
-If you are delivering the data project:
 
 ## Standard
 
