@@ -10,7 +10,7 @@
 
 ### Machine Readable
 
-When data is shared, it must be in a machne readable format.  Only if impossible to provide a machine readable format can it be shared as a non-machine readeable format.
+When data is shared, it must be in a machne readable format.  Where unrealistic to provide a machine readable format, a non-machine readeable format can be provided.
 
 ```
 Typical machine readable formats include (not limited to):
