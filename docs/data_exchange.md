@@ -12,7 +12,8 @@
 
 When data is shared, it must be in a machne readable format.  Only if impossible to provide a machine readable format can it be shared as a non-machine readeable format.
 
-Typical machine readable structures include (not limited to):
+```
+Typical machine readable formats include (not limited to):
 
 * JSON
 * TXT
@@ -22,6 +23,7 @@ Typical machine readable structures include (not limited to):
 * XML
 * Parquet
 * Pickle
+```
 
 Formats that are not machine readable include (not limited to):
 
