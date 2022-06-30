@@ -1,8 +1,8 @@
-# Data Standards for Data Projects 
+# City of Cape Town Data Standards 
 
-Data standards will help City users define their data needs when working on a data project, either within City directorates and departments or working with parties external to the City.  It will help create a shared understanding of the best practices for sharing data and data products.
+The City prescribe to open data standards that make it easier to publish, access, share and use data. 
 
-Current siloed approaches lead to blockages when the City or external party want to use the data paid for with residents monies. Creating common data standards can help us create value for residents by ensuring accessibility to data to make better decisions impacting their lives. 
+Open Data standards will assist users define their data needs when working on a data project.  It will help create a shared understanding of the best practices for sharing data and data products.  By applying Open Data Standards the City can help to create value for residents by ensuring accessibility to data to make better decisions impacting their lives. 
 
 It is hoped that this open approach to establishing data standards will ensure that we follow best practice to streamline the sharing of data within the City and between the City and external parties.  
 
@@ -31,3 +31,6 @@ As a start the following template is used for each topic.  Feel free to submit a
 
 ## Examples
 ```
+
+### References
+[1] [Open Standards for Data](https://standards.theodi.org/)
